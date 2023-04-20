@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realdanielander
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on research on how to make AI more intelligent
+- 👀 I’m interested in Product Management and Artificial Intelligence
+- 🌱 I’m currently learning a lot of things
+- 💞️ I'd love to connect with you
 - 📫 How to reach me via email at danielander7777@gmail.com
 
 <!---
